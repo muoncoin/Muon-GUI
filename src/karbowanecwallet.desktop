@@ -1,0 +1,26 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Muon
+GenericName=Muon wallet
+Name[uk]=Muon
+Name[ru]=Muon
+Name[pl]=Muon
+Name[be]=Muon
+Name[de]=Muon
+Name[es]=Muon
+Name[pt]=Muon
+Comment=Muon wallet
+Comment[uk]=Гаманець Muon
+Comment[ru]=Кошелек Muon
+Comment[pl]=Portfel Muon
+Comment[be]=Кашалёк Muon
+Comment[de]=Muon Brieftasche
+Comment[es]=Muon Monedero
+Comment[pt]=Muon wallet
+Exec=Muon %U
+Terminal=false
+Type=Application
+Icon=karbowanec
+MimeType=x-scheme-handler/karbowanec;
+Categories=Office;Finance;
+Version=1.0.0
